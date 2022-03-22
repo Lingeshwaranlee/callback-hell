@@ -30,7 +30,7 @@ setTimeout(() => {
 
                                         setTimeout(() => {
                                             document.getElementById('display').innerHTML = `<div class="text-center">
-                                                                                           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqspRzxpYOmLs61vgTEcXajLxzPZndGi2QkQ&usqp=CAU" class="img rounded img-thumbnail" alt="img">
+                                                                                           <img src="https://static.toiimg.com/thumb/msid-77543167,width-800,height-600,resizemode-75,imgsize-162693,pt-32,y_pad-40/77543167.jpg" class="img rounded img-thumbnail" alt="img">
                                                                                                <h3 class="display"> Happy Independence Day...</h3> 
                                                                                                             </div> `;
                                         }, 1000)
